@@ -11,7 +11,7 @@ import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 
 @Embeddable
-public class OrdemItemPK implements Serializable{
+public class OrdemItemPK implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 	
